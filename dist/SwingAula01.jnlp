@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SwingAula01.jnlp">
+  <information>
+    <title>SwingAula01</title>
+    <vendor>2830482411015</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SwingAula01.jar" size="43148" download="eager" />
+  </resources>
+  <application-desc main-class="swingaula01.SwingAula01"  name="SwingAula01" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
