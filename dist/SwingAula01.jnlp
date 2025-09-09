@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="SwingAula01.jar" size="43148" download="eager" />
+    <jar href="SwingAula01.jar" size="53812" download="eager" />
   </resources>
   <application-desc main-class="swingaula01.SwingAula01"  name="SwingAula01" >
   </application-desc>
